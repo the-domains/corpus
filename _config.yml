@@ -1,0 +1,14 @@
+layout_spectrum: 0.4304518
+color:
+  saturation: 0.4279931
+  brandStrength: 0.150341
+  lightness: 0.5961276
+  brandColors:
+    - '#050501'
+    - '#FFFFFF'
+    - '#676663'
+    - '#B45477'
+    - '#9A1F20'
+  rhythmicContrast: 0.1843414
+typography_spectrum: 0.6525769
+name: Corpus
