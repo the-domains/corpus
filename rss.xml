@@ -2,13 +2,20 @@
     <channel>
         <title><![CDATA[Corpus]]></title>
         <description><![CDATA[Corpus]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/corpus/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 08 Dec 2015 20:13:41 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 09 Dec 2015 22:46:46 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/corpus/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[This 'Walking Octopus' Slithering On Land Will Haunt Your Dreams (Video)]]></title>
+            <description><![CDATA[<article><h1>This 'Walking Octopus' Slithering On Land Will Haunt Your Dreams (Video)</h1><p>The threats posed by terrorism and Donald Trump pale in comparison to this octopus that figured out how to walk on land. According to Cosmopolitan, just one species of octopus knows how to do this, though it's not clear where this slimy creature resides.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2d1f74c0d17e8b020f467806fcf0d8cec29ca9af.jpg"></article>]]></description>
+            <link>http://elitedaily.com/news/octopus-walks-land-hunt/1310115/</link>
+            <guid isPermaLink="false">01f79766-a609-476f-9cc3-004a77bee837</guid>
+            <pubDate>Wed, 09 Dec 2015 22:46:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Wipeout Run 2015]]></title>
-            <description><![CDATA[<article><h1>Wipeout Run 2015</h1><p>We ran the Wipeout 5K in Irvine, California. Best 5K ever!</p></article>]]></description>
+            <description><![CDATA[<article><h1>Wipeout Run 2015</h1><p>We ran the Wipeout 5K in Irvine, California. Best 5K ever!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2821e39e7bc56881a44ec53e03971bca1eb06511.jpg"></article>]]></description>
             <link>https://vimeo.com/145050192</link>
             <guid isPermaLink="false">52f8f529-de33-46ce-b391-81d7d0b69a86</guid>
             <pubDate>Tue, 08 Dec 2015 20:13:41 GMT</pubDate>
